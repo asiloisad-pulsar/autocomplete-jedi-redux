@@ -1,7 +1,7 @@
 {
   "name": "autocomplete-jedi-redux",
   "description": "Python packages, variables, methods and functions with their arguments autocompletion powered by Jedi",
-  "repository": "https://github.com/asiloisad/pulsar-autocomplete-jedi-redux",
+  "repository": "https://github.com/asiloisad-pulsar/autocomplete-jedi-redux",
   "version": "1.1.2",
   "license": "MIT",
   "engines": {
