@@ -15,7 +15,7 @@ Python packages, variables, methods and functions with their arguments autocompl
 
 ## Installation
 
-To install `autocomplete-jedi-redux` search for [autocomplete-jedi-redux](https://web.pulsar-edit.dev/packages/autocomplete-jedi-redux) in the Install pane of the Pulsar settings or run `ppm install autocomplete-jedi-redux`. Alternatively, you can run `ppm install asiloisad/pulsar-autocomplete-jedi-redux` to install a package directly from the GitHub repository.
+To install `autocomplete-jedi-redux` search for [autocomplete-jedi-redux](https://web.pulsar-edit.dev/packages/autocomplete-jedi-redux) in the Install pane of the Pulsar settings or run `ppm install autocomplete-jedi-redux`. Alternatively, you can run `ppm install asiloisad-pulsar/autocomplete-jedi-redux` to install a package directly from the GitHub repository.
 
 The package requires [Jedi](https://pypi.org/project/jedi/) to be installed.
 
