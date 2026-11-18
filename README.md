@@ -2,6 +2,9 @@
 
 Python packages, variables, methods and functions with their arguments autocompletion powered by [Jedi](https://github.com/davidhalter/jedi).
 
+> [!NOTE]
+> This package is in maintenance mode. If you use [Lumine](https://github.com/lumine-code/lumine), you may be interested in [ide-basedpyright](https://github.com/lumine-code/ide-basedpyright).
+
 ## Features
 
 - **Autocomplete**: complete packages, variables, methods and functions with their arguments.
